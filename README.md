@@ -10,9 +10,8 @@
 
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=smandroulaki&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+ <img height="165" src="https://github-stats-extended.vercel.app/api?username=smandroulaki&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="stats" />
 </p>
-
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=smandroulaki&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
